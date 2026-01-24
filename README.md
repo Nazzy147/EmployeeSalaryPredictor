@@ -160,7 +160,7 @@ EmployeeSalaryPredictor/
 
 ## 👨‍💻 About Me
 
-I am a **pre-final year B.Tech IT student** with hands-on experience in **Machine Learning, Data Analysis, and Model Deployment**, actively seeking opportunities to apply AI/ML solutions to real-world problems.
+I am a **B.Tech IT student** with hands-on experience in **Machine Learning, Data Analysis, and Model Deployment**, actively seeking opportunities to apply AI/ML solutions to real-world problems.
 
 📌 *This project reflects my ability to build practical ML systems beyond theory.*
 
